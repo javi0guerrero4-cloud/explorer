@@ -20,7 +20,7 @@ catalogs:
     '@vitest/browser': 4.1.8
     '@vitest/browser-playwright': 4.1.8
     '@vitest/coverage-v8': 4.1.8
-    vitest: 4.1.8
+    vitest: 5.0.3
 
 ignoreScripts: true
 
